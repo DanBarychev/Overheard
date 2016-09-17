@@ -1,0 +1,405 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D6EC0E2B1D8CE7B20019D39F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6EC0E2A1D8CE7B20019D39F /* AppDelegate.swift */; };
+		D6EC0E2D1D8CE7B20019D39F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6EC0E2C1D8CE7B20019D39F /* ViewController.swift */; };
+		D6EC0E301D8CE7B30019D39F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6EC0E2E1D8CE7B30019D39F /* Main.storyboard */; };
+		D6EC0E321D8CE7B30019D39F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6EC0E311D8CE7B30019D39F /* Assets.xcassets */; };
+		D6EC0E351D8CE7B30019D39F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6EC0E331D8CE7B30019D39F /* LaunchScreen.storyboard */; };
+		D6EC0E401D8CE7B30019D39F /* OverheardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6EC0E3F1D8CE7B30019D39F /* OverheardTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		D6EC0E3C1D8CE7B30019D39F /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D6EC0E1F1D8CE7B00019D39F /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D6EC0E261D8CE7B10019D39F;
+			remoteInfo = Overheard;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		D6EC0E271D8CE7B20019D39F /* Overheard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Overheard.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D6EC0E2A1D8CE7B20019D39F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		D6EC0E2C1D8CE7B20019D39F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		D6EC0E2F1D8CE7B30019D39F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		D6EC0E311D8CE7B30019D39F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D6EC0E341D8CE7B30019D39F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		D6EC0E361D8CE7B30019D39F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D6EC0E3B1D8CE7B30019D39F /* OverheardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OverheardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		D6EC0E3F1D8CE7B30019D39F /* OverheardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverheardTests.swift; sourceTree = "<group>"; };
+		D6EC0E411D8CE7B30019D39F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D6EC0E241D8CE7B10019D39F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D6EC0E381D8CE7B30019D39F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D6EC0E1E1D8CE7B00019D39F = {
+			isa = PBXGroup;
+			children = (
+				D6EC0E291D8CE7B20019D39F /* Overheard */,
+				D6EC0E3E1D8CE7B30019D39F /* OverheardTests */,
+				D6EC0E281D8CE7B20019D39F /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D6EC0E281D8CE7B20019D39F /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D6EC0E271D8CE7B20019D39F /* Overheard.app */,
+				D6EC0E3B1D8CE7B30019D39F /* OverheardTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D6EC0E291D8CE7B20019D39F /* Overheard */ = {
+			isa = PBXGroup;
+			children = (
+				D6EC0E2A1D8CE7B20019D39F /* AppDelegate.swift */,
+				D6EC0E2C1D8CE7B20019D39F /* ViewController.swift */,
+				D6EC0E2E1D8CE7B30019D39F /* Main.storyboard */,
+				D6EC0E311D8CE7B30019D39F /* Assets.xcassets */,
+				D6EC0E331D8CE7B30019D39F /* LaunchScreen.storyboard */,
+				D6EC0E361D8CE7B30019D39F /* Info.plist */,
+			);
+			path = Overheard;
+			sourceTree = "<group>";
+		};
+		D6EC0E3E1D8CE7B30019D39F /* OverheardTests */ = {
+			isa = PBXGroup;
+			children = (
+				D6EC0E3F1D8CE7B30019D39F /* OverheardTests.swift */,
+				D6EC0E411D8CE7B30019D39F /* Info.plist */,
+			);
+			path = OverheardTests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D6EC0E261D8CE7B10019D39F /* Overheard */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D6EC0E441D8CE7B30019D39F /* Build configuration list for PBXNativeTarget "Overheard" */;
+			buildPhases = (
+				D6EC0E231D8CE7B10019D39F /* Sources */,
+				D6EC0E241D8CE7B10019D39F /* Frameworks */,
+				D6EC0E251D8CE7B10019D39F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Overheard;
+			productName = Overheard;
+			productReference = D6EC0E271D8CE7B20019D39F /* Overheard.app */;
+			productType = "com.apple.product-type.application";
+		};
+		D6EC0E3A1D8CE7B30019D39F /* OverheardTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D6EC0E471D8CE7B30019D39F /* Build configuration list for PBXNativeTarget "OverheardTests" */;
+			buildPhases = (
+				D6EC0E371D8CE7B30019D39F /* Sources */,
+				D6EC0E381D8CE7B30019D39F /* Frameworks */,
+				D6EC0E391D8CE7B30019D39F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D6EC0E3D1D8CE7B30019D39F /* PBXTargetDependency */,
+			);
+			name = OverheardTests;
+			productName = OverheardTests;
+			productReference = D6EC0E3B1D8CE7B30019D39F /* OverheardTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D6EC0E1F1D8CE7B00019D39F /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = "Daniel Barychev";
+				TargetAttributes = {
+					D6EC0E261D8CE7B10019D39F = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+					D6EC0E3A1D8CE7B30019D39F = {
+						CreatedOnToolsVersion = 7.3.1;
+						TestTargetID = D6EC0E261D8CE7B10019D39F;
+					};
+				};
+			};
+			buildConfigurationList = D6EC0E221D8CE7B00019D39F /* Build configuration list for PBXProject "Overheard" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D6EC0E1E1D8CE7B00019D39F;
+			productRefGroup = D6EC0E281D8CE7B20019D39F /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D6EC0E261D8CE7B10019D39F /* Overheard */,
+				D6EC0E3A1D8CE7B30019D39F /* OverheardTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D6EC0E251D8CE7B10019D39F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D6EC0E351D8CE7B30019D39F /* LaunchScreen.storyboard in Resources */,
+				D6EC0E321D8CE7B30019D39F /* Assets.xcassets in Resources */,
+				D6EC0E301D8CE7B30019D39F /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D6EC0E391D8CE7B30019D39F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D6EC0E231D8CE7B10019D39F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D6EC0E2D1D8CE7B20019D39F /* ViewController.swift in Sources */,
+				D6EC0E2B1D8CE7B20019D39F /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D6EC0E371D8CE7B30019D39F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D6EC0E401D8CE7B30019D39F /* OverheardTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		D6EC0E3D1D8CE7B30019D39F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = D6EC0E261D8CE7B10019D39F /* Overheard */;
+			targetProxy = D6EC0E3C1D8CE7B30019D39F /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		D6EC0E2E1D8CE7B30019D39F /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D6EC0E2F1D8CE7B30019D39F /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		D6EC0E331D8CE7B30019D39F /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D6EC0E341D8CE7B30019D39F /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		D6EC0E421D8CE7B30019D39F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		D6EC0E431D8CE7B30019D39F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		D6EC0E451D8CE7B30019D39F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Overheard/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.overheardapp.Overheard;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		D6EC0E461D8CE7B30019D39F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Overheard/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.overheardapp.Overheard;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		D6EC0E481D8CE7B30019D39F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = OverheardTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.overheardapp.OverheardTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Overheard.app/Overheard";
+			};
+			name = Debug;
+		};
+		D6EC0E491D8CE7B30019D39F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = OverheardTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.overheardapp.OverheardTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Overheard.app/Overheard";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D6EC0E221D8CE7B00019D39F /* Build configuration list for PBXProject "Overheard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D6EC0E421D8CE7B30019D39F /* Debug */,
+				D6EC0E431D8CE7B30019D39F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D6EC0E441D8CE7B30019D39F /* Build configuration list for PBXNativeTarget "Overheard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D6EC0E451D8CE7B30019D39F /* Debug */,
+				D6EC0E461D8CE7B30019D39F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		D6EC0E471D8CE7B30019D39F /* Build configuration list for PBXNativeTarget "OverheardTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D6EC0E481D8CE7B30019D39F /* Debug */,
+				D6EC0E491D8CE7B30019D39F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D6EC0E1F1D8CE7B00019D39F /* Project object */;
+}
