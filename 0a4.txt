@@ -1,0 +1,1504 @@
+{
+ "signatures": [
+  {
+   "keyid": "f54cb76e3c8c425bdece3ec14f5ffce0e8bc6229036620285671eb9f7905ac12", 
+   "method": "PyCrypto-PKCS#1 PSS", 
+   "sig": "12f3ee7912dfc87da08f28851502ff676f7fafdac8b15d7d8193cab925972b4719b1234d9627602e4cb05cb3f8dcd8b8d0f429c17ac6ee5b2080e3369c6be5f7c7855bc14049b8ce88634219bab6acf1d2913ff50f0208c5500eaf47a65423fa269b5e9a9c4776d38ee39cbc3c3375b483bf7fca065461652dca724872ea3c48308759375da36595f5ae0a5e2e82a532531d41a2470894d7cbbdd30d6ac9b2c74fa1ceef2fb5e5638c4b29c3a077d33daaa9e205aaea0419a6e6c09ec4ff789129d522eee3cd7a327dc7cb6ee6297ba5ba137c5450b7f33979e1164fef54f9f70609cf722f49d4ca357935590944569b6b9d67bea69f9695fd400293e97a9172"
+  }
+ ], 
+ "signed": {
+  "_type": "Targets", 
+  "expires": "2013-12-10 02:01:49 UTC", 
+  "targets": {
+   "packages/2.4/S/Sutekh/Sutekh-0.6.1-py2.4.egg": {
+    "hashes": {
+     "sha256": "a750da7f14d5a9589986d6de8aab36236a1797a07c6b5bef44b899b5c760b6f3"
+    }, 
+    "length": 885553
+   }, 
+   "packages/2.4/e/easyshop.core/easyshop.core-0.1a1-py2.4.egg": {
+    "hashes": {
+     "sha256": "556ea1b7e19035d593a7849a896532958a047122775622bef3a151519367f795"
+    }, 
+    "length": 177309
+   }, 
+   "packages/2.4/n/niteoweb.loginas/niteoweb.loginas-0.1-py2.4.egg": {
+    "hashes": {
+     "sha256": "2c1e0801375934f1acfb12aa17ee274d9933b6a6b3848f3349e2c9ecea132797"
+    }, 
+    "length": 7242
+   }, 
+   "packages/2.4/p/plone.memoize/plone.memoize-1.0b3-py2.4.egg": {
+    "hashes": {
+     "sha256": "7cb36b970bea9820d6cecb7707f85a22e149aaffa930c18952bd9241de861d54"
+    }, 
+    "length": 11692
+   }, 
+   "packages/2.5/B/BytecodeAssembler/BytecodeAssembler-0.5-py2.5.egg": {
+    "hashes": {
+     "sha256": "ff8079bc57df94ac63f22b356b2974c073ea636949413324b1744588db8573bf"
+    }, 
+    "length": 43324
+   }, 
+   "packages/2.5/e/epigrass/epigrass-2.0b1-py2.5.egg": {
+    "hashes": {
+     "sha256": "ea93c5d2efbe72b8431627cbf27f9f58044e950d730cd50393f5c0615a8ffe9d"
+    }, 
+    "length": 274648
+   }, 
+   "packages/2.5/l/lamson/lamson-0.9-py2.5.egg": {
+    "hashes": {
+     "sha256": "630a3cdc829b91306d49719b411d5ab1ff7b8365820198a12bda868f33cb2678"
+    }, 
+    "length": 74288
+   }, 
+   "packages/2.5/p/pod/pod-0.41.win32-py2.5.exe": {
+    "hashes": {
+     "sha256": "c2c63c0337cb726ca970408ba74519b3b248f0173f3de0c5543516aa25d80a26"
+    }, 
+    "length": 87229
+   }, 
+   "packages/2.5/p/pod/pod-0.53-py2.5.egg": {
+    "hashes": {
+     "sha256": "6945059140f434cc4c594a7f50175dacd6845b4a0bc5c2c9d3d65fb3d9ce498f"
+    }, 
+    "length": 65565
+   }, 
+   "packages/2.5/p/pydap.responses.kml/pydap.responses.kml-0.4.0-py2.5.egg": {
+    "hashes": {
+     "sha256": "11d5468b4276e70440399c425c9c3b9a94917f29c8b42c439fd5d0bb18e80a6a"
+    }, 
+    "length": 8238
+   }, 
+   "packages/2.5/p/pymongo/pymongo-2.6.1-py2.5-macosx-10.8-x86_64.egg": {
+    "hashes": {
+     "sha256": "adf7c5487593b81de1979182f1d9020fad6ea34c3edee52b23de6d03b37adbe7"
+    }, 
+    "length": 350596
+   }, 
+   "packages/2.5/s/segtools/segtools-1.1.3-py2.5.egg": {
+    "hashes": {
+     "sha256": "d9293e6b0f6e686632f373e56643a0f329683949c37d47c047772c7a8bbe28f1"
+    }, 
+    "length": 185076
+   }, 
+   "packages/2.5/x/xooof.schema.dev/xooof.schema.dev-0.1-py2.5.egg": {
+    "hashes": {
+     "sha256": "ea703f16cc30e33ecdfd2d1217e9784695ca9280b958f2d64633e21130b01fae"
+    }, 
+    "length": 19763
+   }, 
+   "packages/2.6/C/Cirrus/Cirrus-0.1-py2.6.egg": {
+    "hashes": {
+     "sha256": "3432338190740c88904420c6430ca059118dae4e4920695ff06f322a15373b92"
+    }, 
+    "length": 19971
+   }, 
+   "packages/2.6/c/cisco_ssapi/cisco_ssapi-0.1dev-py2.6.egg": {
+    "hashes": {
+     "sha256": "38bdc526feba53a8983502c5536955ab48e24a68b0a12edb882082b993035a37"
+    }, 
+    "length": 13916
+   }, 
+   "packages/2.6/m/mtspec/mtspec-0.2.5-py2.6-win32.egg": {
+    "hashes": {
+     "sha256": "d8e13f44fc051cdbbe847cf7971da6f6a301ab20ed52e74d2f51abb6d86029d3"
+    }, 
+    "length": 1485963
+   }, 
+   "packages/2.6/p/pyfits/pyfits-3.0.4.win32-py2.6.exe": {
+    "hashes": {
+     "sha256": "0770347597dc33c965ee2a59420ca827c1042499b7ddd3e8d50b5c5ade501e0e"
+    }, 
+    "length": 648644
+   }, 
+   "packages/2.6/s/silme/silme-0.8.1-py2.6.egg": {
+    "hashes": {
+     "sha256": "c0dd872e939aa62a51a4c436660bf6bc23aea3d4e6627c27cc11be8912dc7379"
+    }, 
+    "length": 137016
+   }, 
+   "packages/2.6/s/surf.sparql_protocol/surf.sparql_protocol-0.2_r110-py2.6.egg": {
+    "hashes": {
+     "sha256": "36ea1d62ac981a69d27eb79b5bbe4794dc52dc4f90ac11351fa330c0442eafef"
+    }, 
+    "length": 12631
+   }, 
+   "packages/2.6/t/tgext.crud/tgext.crud-0.3.6-py2.6.egg": {
+    "hashes": {
+     "sha256": "d46a4ddc3b248f578da9999919dfc7f5b423785d3f3dd1e9e629bef7ee466473"
+    }, 
+    "length": 17909
+   }, 
+   "packages/2.6/t/transcoptract/transcoptract-1.03-py2.6.egg": {
+    "hashes": {
+     "sha256": "692494503bc610956a831ee1b37eff682b4a070a987a7cf843bec53937749fe7"
+    }, 
+    "length": 7192
+   }, 
+   "packages/2.6/w/wheezy.captcha/wheezy.captcha-0.1.19-py2.6.egg": {
+    "hashes": {
+     "sha256": "8a604b03a1b831c86f66983e7f05ff76f147710459b80449b68bc6bcbf7c1659"
+    }, 
+    "length": 14816
+   }, 
+   "packages/2.6/w/wheezy.core/wheezy.core-0.1.86-py2.6.egg": {
+    "hashes": {
+     "sha256": "f945a9e176b5e08bd84116f066b51813ae61a9ab898885aa6b7fc97be7c2bad4"
+    }, 
+    "length": 41662
+   }, 
+   "packages/2.7/B/B1python/B1python-0.8.2.linux-i686.tar.gz": {
+    "hashes": {
+     "sha256": "67e4a200f93eac1fc924ee82f9cdff076b93dd464841631a257bb1c1da4d9d9b"
+    }, 
+    "length": 1196671
+   }, 
+   "packages/2.7/Q/Qimport/Qimport-0.1-py2.7.egg": {
+    "hashes": {
+     "sha256": "01578f3c9a9c7328bbdd757b22220827b1c8caf3a8ea0db77b439689e90e7455"
+    }, 
+    "length": 38055
+   }, 
+   "packages/2.7/a/archipel-agent-hypervisor-health/archipel_agent_hypervisor_health-0.4.0beta-py2.7.egg": {
+    "hashes": {
+     "sha256": "0ce6955f345f6afd0a493439fa5b093690330ae7b56996f0795e39a346ca1b12"
+    }, 
+    "length": 20573
+   }, 
+   "packages/2.7/d/dotconf/dotconf-1.7-py2.7.egg": {
+    "hashes": {
+     "sha256": "a94ddeb8701885b90b855f2ff991eb055a8a6fe8e2b8b2b5bb602d8b5edafcc8"
+    }, 
+    "length": 36320
+   }, 
+   "packages/2.7/f/fastavro/fastavro-0.4.0-py2.7-linux-x86_64.egg": {
+    "hashes": {
+     "sha256": "02dcc74ec855721df49b0cf9a6259815fc905d0d859ccc76f2cdd9924b13c2d6"
+    }, 
+    "length": 99558
+   }, 
+   "packages/2.7/g/grace_dizmo/grace_dizmo-0.1.1-py2.7.egg": {
+    "hashes": {
+     "sha256": "1a941ba6549dc5a2c06e94db4cb151661403d7c1d5182ee9ff937d6b869ce64c"
+    }, 
+    "length": 196407
+   }, 
+   "packages/2.7/j/jmbo-gallery/jmbo_gallery-0.2.2-py2.7.egg": {
+    "hashes": {
+     "sha256": "29abf23db123cf5fc8ad12ea58d8150f758c9ddfd73eac9d2e82e86245129c59"
+    }, 
+    "length": 43012
+   }, 
+   "packages/2.7/p/pymongo/pymongo-2.5-py2.7-macosx-10.8-intel.egg": {
+    "hashes": {
+     "sha256": "45c2f74ac8f11c9066f45222b33fa95263f2c8b71c3d57795fa374136a69c067"
+    }, 
+    "length": 344113
+   }, 
+   "packages/2.7/s/surrealism/surrealism-0.4.1-py2.7.egg": {
+    "hashes": {
+     "sha256": "fae4a906ec8c2385dc7bf3bae4664d4e967ddc203075d5c183cbd71ea30f8e1d"
+    }, 
+    "length": 6903
+   }, 
+   "packages/2.7/z/zope.index/zope.index-4.0.0.win-amd64-py2.7.exe": {
+    "hashes": {
+     "sha256": "628da9bf0c2e31d2b44682f9609b34d8eeaeb2fb5905f36bbf70cb2c416234cb"
+    }, 
+    "length": 326702
+   }, 
+   "packages/3.1/p/pytz/pytz-2011e-py3.1.egg": {
+    "hashes": {
+     "sha256": "8522082abdfb8ae675a921722be79b0340e0c2273dd80f10c1a8b7e4bb3ee14e"
+    }, 
+    "length": 520865
+   }, 
+   "packages/3.1/s/snmpsim/snmpsim-0.1.2-py3.1.egg": {
+    "hashes": {
+     "sha256": "95b59b15fa73baf6fa5c86e289e98c97eddb329c121406b77dd2bab8f42471e6"
+    }, 
+    "length": 9418
+   }, 
+   "packages/3.2/m/motop/motop-2.0-py3.2.egg": {
+    "hashes": {
+     "sha256": "8367a1d415cb1612ddd841a11d7c1a8f5ebe51c15321f1e6a77a650387676bb9"
+    }, 
+    "length": 26868
+   }, 
+   "packages/3.2/w/wheezy.routing/wheezy.routing-0.1.130-py3.2.egg": {
+    "hashes": {
+     "sha256": "eda559c902ff4ef3d452d63d42ce234ac9c67845d6d6c75e493959995c9b530b"
+    }, 
+    "length": 23736
+   }, 
+   "packages/3.3/n/nipy/nipy-0.3.0-py3.3-macosx-10.6-intel.egg": {
+    "hashes": {
+     "sha256": "8ffa9810fef0230c661d389e9f70f057d1cec8bc977608fe736cdb97b4482e3c"
+    }, 
+    "length": 3124624
+   }, 
+   "packages/any/F/FiscalHr/FiscalHr-0.2.1.linux-x86_64.exe": {
+    "hashes": {
+     "sha256": "0afe4fe76f5c89dfef33340c79812a1123f1ba43ad6f6e841d382bb436c5d5fb"
+    }, 
+    "length": 80416
+   }, 
+   "packages/any/a/autobahntestsuite/autobahntestsuite-0.5.0.win32.exe": {
+    "hashes": {
+     "sha256": "619aeb594469760c11d2f16b81223cb58224625395e87075c0dd6b9874a96f47"
+    }, 
+    "length": 365676
+   }, 
+   "packages/any/g/gspread/gspread-0.0.4.linux-i686.exe": {
+    "hashes": {
+     "sha256": "a31b411478080128d5414a93381617d3d50c6c9e014fa86560a13af5020bfcbb"
+    }, 
+    "length": 69224
+   }, 
+   "packages/any/l/ll-core/ll-core-1.7.3-1.src.rpm": {
+    "hashes": {
+     "sha256": "6ee2933e372d6e503b678d757e13b2707ffbf222ba3df3587c93234426a5bd3e"
+    }, 
+    "length": 130031
+   }, 
+   "packages/any/p/pyDatalog/pyDatalog-0.6.0.win32.exe": {
+    "hashes": {
+     "sha256": "788a6e9b8bef5ac22e663fdecb5b376c93535ed60d3543444d23bd2322cc236f"
+    }, 
+    "length": 121466
+   }, 
+   "packages/any/w/wikipedia/wikipedia-0.9.macosx-10.8-intel.exe": {
+    "hashes": {
+     "sha256": "3e116b58d48432d558ceb6c6760761fa6f169c290d6c64db41700fef1ae82874"
+    }, 
+    "length": 78463
+   }, 
+   "packages/source/B/Baskit/Baskit-0.2.1.tar.gz": {
+    "hashes": {
+     "sha256": "2ee1adbb8cb55888a0ce8b056d33e3904ed75a3e432732961bcc3816b0f2ecc7"
+    }, 
+    "length": 11689
+   }, 
+   "packages/source/B/Beaker/Beaker-1.6.tar.gz": {
+    "hashes": {
+     "sha256": "3d475c085284ba7b182e4abc61d38b8b4e42f178f43a00ba81ece94acac7e64a"
+    }, 
+    "length": 51600
+   }, 
+   "packages/source/B/Behaviour/Behaviour-0.1a2.tar.gz": {
+    "hashes": {
+     "sha256": "5e1b66c28914714b9f04d24abd4e0c6cba78711dc36b1f617039097cfd816610"
+    }, 
+    "length": 16105
+   }, 
+   "packages/source/B/BioSignalML/BioSignalML-0.3.4.tar.gz": {
+    "hashes": {
+     "sha256": "dd9f993312e53cf3c7fa67cd8dfdbc886dc75e4525828c299d3a3a8ef1a68c7d"
+    }, 
+    "length": 79360
+   }, 
+   "packages/source/B/BlueChips/BlueChips-1.0.4.tar.gz": {
+    "hashes": {
+     "sha256": "e869b9c5c13dde37b39f2bb24ae18e7d2721619e667f023736b68ce03d1b26f7"
+    }, 
+    "length": 42801
+   }, 
+   "packages/source/C/CVXOPT/cvxopt-1.1.3.tar.gz": {
+    "hashes": {
+     "sha256": "c9563f04a31516e7b042d9e25344ae24bf6bc3e905c53ed077f9974c0efd9a7a"
+    }, 
+    "length": 2927536
+   }, 
+   "packages/source/C/Colonyzer2/Colonyzer2-1.0.4.zip": {
+    "hashes": {
+     "sha256": "91cca0806414513eb323570984168e6c0b68751eee18306a2d33bae4726011dc"
+    }, 
+    "length": 17077
+   }, 
+   "packages/source/D/Delorean/Delorean-0.2.0.tar.gz": {
+    "hashes": {
+     "sha256": "ec05a83c1899cb4ce6f2ba41ff974c6270d5397074089cfbe65b44cf5210df6d"
+    }, 
+    "length": 11184
+   }, 
+   "packages/source/F/Flask-Cache/Flask-Cache-0.11.1.tar.gz": {
+    "hashes": {
+     "sha256": "c22d798f9c5959e517cebd1d2fe80c41692f4af48e2a707fea65217857bca50a"
+    }, 
+    "length": 43231
+   }, 
+   "packages/source/F/Flask-FAS/Flask-FAS-0.1.0.tar.gz": {
+    "hashes": {
+     "sha256": "a3ba912fdecb505aaa80d6f8fb2cd2c0c5e1a6fb75a3d48e4e5838737f85e7a5"
+    }, 
+    "length": 2831
+   }, 
+   "packages/source/F/Flask-WebTest/Flask-WebTest-0.0.3.tar.gz": {
+    "hashes": {
+     "sha256": "763aef5f7b70ff7d86558a949ca2dea134fff7f3723fdd6bca14b7161faad6ed"
+    }, 
+    "length": 4858
+   }, 
+   "packages/source/G/Gato/Gato-1.1.1.tar.gz": {
+    "hashes": {
+     "sha256": "ac3f9c9107302ba0aca9f1acf827ec9cdc507e5f5ac278dd1be74f8ded388af7"
+    }, 
+    "length": 269684
+   }, 
+   "packages/source/L/LinOtpUserIdResolver/LinOtpUserIdResolver-2.4.2dev.tar.gz": {
+    "hashes": {
+     "sha256": "81e2c0a053967627f82342f4f85e19fb7de5e3eae5077022dadc87c34b8367dc"
+    }, 
+    "length": 6006
+   }, 
+   "packages/source/M/Ming/Ming-0.2.1dev-20110603.tar.gz": {
+    "hashes": {
+     "sha256": "deb5467d4ca57dbbaabb07b2622ff34f83071d211f07c32894bf003031a16688"
+    }, 
+    "length": 39680
+   }, 
+   "packages/source/M/Monufacture/Monufacture-0.1.4.tar.gz": {
+    "hashes": {
+     "sha256": "c0e26d9161218ce964a9af1e6e360f712ccdd414157841f869f38d945d69b348"
+    }, 
+    "length": 3597
+   }, 
+   "packages/source/P/PloneTerminal/PloneTerminal-0.2.tar.gz": {
+    "hashes": {
+     "sha256": "533cc7eb045370aa5d708a1f0bc216a951560d4f9a699664612c51d7fbcd00fe"
+    }, 
+    "length": 59755
+   }, 
+   "packages/source/P/Products.EasyAsPiIE/Products.EasyAsPiIE-3.0.1.tar.gz": {
+    "hashes": {
+     "sha256": "464f20d0e9a6acd107e5e3c0a3264a1e5d2e478ca9a1a5db1dde73da8a7a821e"
+    }, 
+    "length": 73117
+   }, 
+   "packages/source/P/Products.PDBDebugMode/Products.PDBDebugMode-0.2.tar.gz": {
+    "hashes": {
+     "sha256": "a56ffb70203e058ffe710363adefdc7be5b275c716efdcc25f359cb0a498af85"
+    }, 
+    "length": 13691
+   }, 
+   "packages/source/P/Products.PloneGetPaid/Products.PloneGetPaid-0.7.8.tar.gz": {
+    "hashes": {
+     "sha256": "36394e9e0c846b309b98a3b0cabbb7b57c59f61c888f69a91c91baeb7df57a2d"
+    }, 
+    "length": 204271
+   }, 
+   "packages/source/P/Products.salesforcepfgadapter/Products.salesforcepfgadapter-1.6.2.zip": {
+    "hashes": {
+     "sha256": "d1ccb0ec75bc44b2a66408613a034db226eeeaa93dad71a369164e8482a4253f"
+    }, 
+    "length": 107069
+   }, 
+   "packages/source/P/PyICU/PyICU-1.4.tar.gz": {
+    "hashes": {
+     "sha256": "69737464b763c547ab237fc8f77dabad2f11fa23337a0cb4404c211e2a5f53de"
+    }, 
+    "length": 209539
+   }, 
+   "packages/source/P/Pykka/Pykka-0.14.tar.gz": {
+    "hashes": {
+     "sha256": "8b00af35dbee6babbb020d92e8553653d8893ed437d440aed7b9e876510bc3c9"
+    }, 
+    "length": 29452
+   }, 
+   "packages/source/R/RSCloud/RSCloud-1.0.5.tar.gz": {
+    "hashes": {
+     "sha256": "6150a9f29ec389fcd6d71a8b9f1c903d69157a6697fd401ea7d9bee93123309d"
+    }, 
+    "length": 30470
+   }, 
+   "packages/source/S/SQLObject/SQLObject-0.8.0b1.tar.gz": {
+    "hashes": {
+     "sha256": "1510163628db7cfcc335f850ecaf9b3ce975ba628d1385355c641a8e927e4768"
+    }, 
+    "length": 227917
+   }, 
+   "packages/source/T/TGFKLookup/TGFKLookup-0.1a0.dev-r1761.tar.gz": {
+    "hashes": {
+     "sha256": "9e4619f48f5fcddbefc945193185a945eaee51537f23ab50c95912c4df57ee9b"
+    }, 
+    "length": 19106
+   }, 
+   "packages/source/T/TGPaginate/TGPaginate-0.1a0.dev-r2256.tar.gz": {
+    "hashes": {
+     "sha256": "26879ce9639509d4b73df13c386d2bde066c8a8a54ef544725e30acc85b3e154"
+    }, 
+    "length": 11434
+   }, 
+   "packages/source/Z/ZenQueue/ZenQueue-0.5.tar.gz": {
+    "hashes": {
+     "sha256": "e234a8a5276f5cbeb432c909a809e5d455d18c5df2493d7278196724089aa95b"
+    }, 
+    "length": 19738
+   }, 
+   "packages/source/a/adrest/adrest-0.2.1.tar.gz": {
+    "hashes": {
+     "sha256": "a4df55e7b2e477f937671e87df3446b4eb19103635b68ce5c9dfa4b2fb9d0a52"
+    }, 
+    "length": 11537
+   }, 
+   "packages/source/a/aipy/aipy-0.8.3.tar.gz": {
+    "hashes": {
+     "sha256": "4508de599c2d95c6cd14c4ae2ceab42c405431524a875a3fcf2f8dcd253d7b46"
+    }, 
+    "length": 1452894
+   }, 
+   "packages/source/a/arpy/arpy-1.1.1.tar.gz": {
+    "hashes": {
+     "sha256": "3ec36309d2234648ef8dcd2118fe7d81c30195087e0353473546583f3434e776"
+    }, 
+    "length": 6774
+   }, 
+   "packages/source/a/aspen-twisted/aspen-twisted-0.2.tar.bz2": {
+    "hashes": {
+     "sha256": "37e6292a0618a07d18c3d83483e132aa3d5883bc9dae327fb9f6f80b21c97766"
+    }, 
+    "length": 5632
+   }, 
+   "packages/source/a/autonetkit/autonetkit-0.2.27.tar.gz": {
+    "hashes": {
+     "sha256": "86e5c77d10fc516f4a3e2d3f3f7775dac1427ff0e49e2e1ee4a9fb962563539c"
+    }, 
+    "length": 351998
+   }, 
+   "packages/source/a/aws/aws-0.2.5.tar.gz": {
+    "hashes": {
+     "sha256": "460cd737dee028bcebdb626f0c7acf87753f9e04e3317fda05929625419f2989"
+    }, 
+    "length": 5645
+   }, 
+   "packages/source/b/blaze/blaze-0.1.tar.gz": {
+    "hashes": {
+     "sha256": "bd9bbc48a1bd2c784342a4292e75410d9b1985d1ad161ec960359dde3080e9dd"
+    }, 
+    "length": 211557
+   }, 
+   "packages/source/b/breq/breq-0.7.tar.gz": {
+    "hashes": {
+     "sha256": "4d13ac1a3083ba3a7dbb50552738a827dfd59924fe4e9fa5acb9474bdde82a41"
+    }, 
+    "length": 3296
+   }, 
+   "packages/source/c/ccnmtldjango/ccnmtldjango-1.2.2.tar.gz": {
+    "hashes": {
+     "sha256": "510b649add246c7294a441825e77b468a981ec8224138e1968a549e97f645d59"
+    }, 
+    "length": 1512411
+   }, 
+   "packages/source/c/checkselect/checkselect-1.2.tar.gz": {
+    "hashes": {
+     "sha256": "a45904b5e58aca95ee2fbdf2b9a4386d4a372fdff58d65195afaad8c1bfff499"
+    }, 
+    "length": 4748
+   }, 
+   "packages/source/c/ckan/ckan-1.4.3.tar.gz": {
+    "hashes": {
+     "sha256": "16df194393c4207061dc7ccdf9ed641bdd465347fa31f3033d2230d97e02d0a7"
+    }, 
+    "length": 437567
+   }, 
+   "packages/source/c/clixbuild/clixbuild-1.2.3.tar.gz": {
+    "hashes": {
+     "sha256": "de98bdddfe07bf46436c04e162ab6152b0acfdd9fb597e6fabe1f7bbe8593c05"
+    }, 
+    "length": 3396
+   }, 
+   "packages/source/c/collective.chimpfeed/collective.chimpfeed-1.0-beta3.tar.gz": {
+    "hashes": {
+     "sha256": "d09643f7d345f8bb72069e643131e487172fb87e1be6bc195ce5b32249087ed9"
+    }, 
+    "length": 30750
+   }, 
+   "packages/source/c/collective.gsa/collective.gsa-2.0rc2.zip": {
+    "hashes": {
+     "sha256": "1681151c59b6d218bd6920264040459e6fb6ac3046ff4aac1cda5ea0a9078da9"
+    }, 
+    "length": 78392
+   }, 
+   "packages/source/c/collective.gsqi/collective.gsqi-0.3.tar.gz": {
+    "hashes": {
+     "sha256": "e8d94dece9850b7a20590c1d9ad6c8f9ae45a7dad087845543f7d7dcfe7af15a"
+    }, 
+    "length": 13497
+   }, 
+   "packages/source/c/collective.js.galleria/collective.js.galleria-1.2.2.zip": {
+    "hashes": {
+     "sha256": "bef921466cd8e80812d799b472f2303757df72a2d5a2a7ad6a8f62789ff8f1a4"
+    }, 
+    "length": 89457
+   }, 
+   "packages/source/c/collective.js.jqueryui/collective.js.jqueryui-1.8.2.2.zip": {
+    "hashes": {
+     "sha256": "8fc83db7c80c7225f4334648799974d8fa2581edd3e9b77027aa2c71e61eb0ff"
+    }, 
+    "length": 114611
+   }, 
+   "packages/source/c/collective.portlet.contentleadimage/collective.portlet.contentleadimage-0.3.tar.gz": {
+    "hashes": {
+     "sha256": "b66e88d9cfd41538c0539493cdfb76e1fea19c745a62c6f362eda85055013239"
+    }, 
+    "length": 20179
+   }, 
+   "packages/source/c/collective.portlet.localcontents/collective.portlet.localcontents-0.1.0.tar.gz": {
+    "hashes": {
+     "sha256": "b66855c5e62dd19ae4a11f5c540f827484b88494d1fdea6100df78bd00a855d3"
+    }, 
+    "length": 15426
+   }, 
+   "packages/source/c/collective.psc.blobstorage/collective.psc.blobstorage-0.1.1.zip": {
+    "hashes": {
+     "sha256": "20e63f50fbffb55980164d5772b68f5fd3951383a205d642c168fffae31bc4c3"
+    }, 
+    "length": 11493
+   }, 
+   "packages/source/c/collective.templateengines/collective.templateengines-0.3.1.tar.gz": {
+    "hashes": {
+     "sha256": "0d655dc3c7daa2e19526e6bb88027d97b9d35251928d1bf90e5b8f7b99110b8a"
+    }, 
+    "length": 10239
+   }, 
+   "packages/source/c/colorama/colorama-0.1.13.tar.gz": {
+    "hashes": {
+     "sha256": "3e1b29490315443351992610fc8ccc92e033e355a9e7771c94fd28ce03657845"
+    }, 
+    "length": 9071
+   }, 
+   "packages/source/c/cssmin/cssmin-0.1.tar.gz": {
+    "hashes": {
+     "sha256": "68325e685f5fc6da8c18044dbc5fe98c1a0fb941d2d51fc65bbeda537f3e3981"
+    }, 
+    "length": 3820
+   }, 
+   "packages/source/c/cubicweb/cubicweb-3.12.8.tar.gz": {
+    "hashes": {
+     "sha256": "d92fd029337ec9932a23350c1aae2c690523fa60e9c54b37120236275dc8b589"
+    }, 
+    "length": 9311488
+   }, 
+   "packages/source/d/dialogos/dialogos-0.2.tar.gz": {
+    "hashes": {
+     "sha256": "06020b68fbe8c3f6b5e9452bb8b730d66953544a6fa310bad39c48d425059303"
+    }, 
+    "length": 5958
+   }, 
+   "packages/source/d/difio-heroku-python/difio-heroku-python-1.0.tar.gz": {
+    "hashes": {
+     "sha256": "b90e0335d9eaa5d762d214c761a7bfb7dcb8b1aa989f3815cd6cc461b207e146"
+    }, 
+    "length": 2839
+   }, 
+   "packages/source/d/django-choices/django-choices-1.1.6.tar.gz": {
+    "hashes": {
+     "sha256": "1e7b9c6fa378bcd004106bd8e95a28aff4a8ac08760f8ecc4dbccfa970f550e0"
+    }, 
+    "length": 3681
+   }, 
+   "packages/source/d/django-ctrl/django-ctrl-1.2.tar.gz": {
+    "hashes": {
+     "sha256": "fdd3b139696b4ea4418f4a46b2824d7414e6f738ecdfd0cb91b67e97eeddfd82"
+    }, 
+    "length": 9736
+   }, 
+   "packages/source/d/django-discover-runner/django-discover-runner-0.3.tar.gz": {
+    "hashes": {
+     "sha256": "1241aab1af00df14a892af7ff680a270f4991254790e6af8880b2d957a37b1ae"
+    }, 
+    "length": 5258
+   }, 
+   "packages/source/d/django-document-library/django-document-library-0.2.1.tar.gz": {
+    "hashes": {
+     "sha256": "9016c670cb659b5f26e00410e3f00f950087569acb63372af04f281c09373fa9"
+    }, 
+    "length": 14541
+   }, 
+   "packages/source/d/django-funkymetrics/django-funkymetrics-0.1.6.tar.gz": {
+    "hashes": {
+     "sha256": "10d25bc7381b240304fc52d698e29accc534587e4395a672797263ababde13a2"
+    }, 
+    "length": 4055
+   }, 
+   "packages/source/d/django-googlesearch/django-googlesearch-0.0.6.tar.gz": {
+    "hashes": {
+     "sha256": "f00dff68e1c3414f56d55201af927b75dffe33d5d497c33348f3f8099f85a3ac"
+    }, 
+    "length": 4733
+   }, 
+   "packages/source/d/django-modelsettings/django-modelsettings-0.1.tar.gz": {
+    "hashes": {
+     "sha256": "43b35b0357a7b99b45c405b53a8b000a4363639e896eac1de3e933de23ea8647"
+    }, 
+    "length": 3006
+   }, 
+   "packages/source/d/django-multi-sessions/django-multi-sessions-0.0.5.tar.gz": {
+    "hashes": {
+     "sha256": "4d5dd5809fc5132af305b79ce69f4974a254d1af4117145658124cb378cd34a0"
+    }, 
+    "length": 3628
+   }, 
+   "packages/source/d/django-player/django-player-0.1.0-beta4.tar.gz": {
+    "hashes": {
+     "sha256": "f3909b5c9905efa172be18ac0e98c44055ec8bda726224ded73b86b52a014d9c"
+    }, 
+    "length": 370655
+   }, 
+   "packages/source/d/django-quicky/django-quicky-0.5.2.tar.gz": {
+    "hashes": {
+     "sha256": "47cfa651be0ba246edea0b6722083046e9892e3c89da298031e9e67fb77ac526"
+    }, 
+    "length": 26761
+   }, 
+   "packages/source/d/django-respite/django-respite-1.1.1.tar.gz": {
+    "hashes": {
+     "sha256": "4abeeca327d08b94917f91ebcda623010394de1da1bc74bee70e5bb9c28419f9"
+    }, 
+    "length": 29809
+   }, 
+   "packages/source/d/django-startcbv/django-startcbv-0.2.2.tar.gz": {
+    "hashes": {
+     "sha256": "62b7276d2e8d117230cf9ee5873d467430044d9946be28b0a43fc3aaec0ff568"
+    }, 
+    "length": 13077
+   }, 
+   "packages/source/d/django-staticsite/django-staticsite-0.1.0.tar.gz": {
+    "hashes": {
+     "sha256": "c3e76842770ccba645f6b379148d92a337fc49f6ab225ea2014f07dd1dd0fd78"
+    }, 
+    "length": 3386
+   }, 
+   "packages/source/d/django-terms/django-terms-1.0.2.tar.gz": {
+    "hashes": {
+     "sha256": "89286aeed93ff0c39809a0ff4568ef4f226489ac2b9ddf32cca082f6150d7254"
+    }, 
+    "length": 48493
+   }, 
+   "packages/source/e/ecm/ecm-2.1.0.tar.gz": {
+    "hashes": {
+     "sha256": "55efd46fedbf2813f578228ed411a1bf8606b1a3b31642d9525c2ef6ff6b84a0"
+    }, 
+    "length": 1103011
+   }, 
+   "packages/source/f/fa.jquery/fa.jquery-0.9.1.zip": {
+    "hashes": {
+     "sha256": "d934fb6fc7449d4baeb36c18172ca20b162ec8495a434701d57077668f8b1651"
+    }, 
+    "length": 1219231
+   }, 
+   "packages/source/f/fetcher/fetcher-0.9.2.2.3.zip": {
+    "hashes": {
+     "sha256": "5f97a14a0e8483bd3aae797d3a298840fd025d31b31753dd5e4b51bf496fa619"
+    }, 
+    "length": 13583
+   }, 
+   "packages/source/f/ffmpegwrapper/ffmpegwrapper-0.1-dev.tar.gz": {
+    "hashes": {
+     "sha256": "b13af5017a36f3955544c895a43b85cc677914b82350d82eef079f648b6ac953"
+    }, 
+    "length": 4997
+   }, 
+   "packages/source/f/figs/figs-0.1.1.tar.gz": {
+    "hashes": {
+     "sha256": "e913405ea392538a769b071fd4f18b00e512ea9adf6cd669a75ab1d8a83a695f"
+    }, 
+    "length": 6225
+   }, 
+   "packages/source/f/flake8-immediate/flake8-immediate-0.1.zip": {
+    "hashes": {
+     "sha256": "9c51d770ab664e0a14d4cc512dbe73e405fae60231457e06ddfe6da4d7c0e3ab"
+    }, 
+    "length": 6172
+   }, 
+   "packages/source/g/gaedriver/gaedriver-0.0.2.zip": {
+    "hashes": {
+     "sha256": "abaafc763136c598d167472560d7f70ca98cfadc044d7193605cc458eeed0562"
+    }, 
+    "length": 19503
+   }, 
+   "packages/source/g/genzshcomp/genzshcomp-0.5.tar.gz": {
+    "hashes": {
+     "sha256": "fdeab947b064d1f039aab8130b5fe472d019bf17dc64389a0baff797bb81291b"
+    }, 
+    "length": 12951
+   }, 
+   "packages/source/g/gitomatic/gitomatic-0.5.6.tar.gz": {
+    "hashes": {
+     "sha256": "26146a2d154389a3e73f107b13c72ed72f6cb7ece7e33256c42aa58c5d83d886"
+    }, 
+    "length": 6706
+   }, 
+   "packages/source/g/goscalecms/goscalecms-0.5.dev4.tar.gz": {
+    "hashes": {
+     "sha256": "2409b2a57f97e424d9db8c8e7d5a8789759f5c1e41fa110d919077ca41c583cc"
+    }, 
+    "length": 41761
+   }, 
+   "packages/source/g/gp.recipe.pip/gp.recipe.pip-0.3.tar.gz": {
+    "hashes": {
+     "sha256": "e55f4554271808324aeb38eeae939dc2ac0b250dec90d71e5530814868384d9b"
+    }, 
+    "length": 179092
+   }, 
+   "packages/source/h/html/html-1.7.tar.gz": {
+    "hashes": {
+     "sha256": "5886408008f1c3462d9d445cbd1aa39fe6cfa86df85c88d6a0ed91c317891c05"
+    }, 
+    "length": 5053
+   }, 
+   "packages/source/i/icemac.callonchange/icemac.callonchange-0.7.0.tar.gz": {
+    "hashes": {
+     "sha256": "c34e9a2d5b8a8a10fada241f482c8d21e1c72eb0793f3f4954667ed6b73a769e"
+    }, 
+    "length": 14777
+   }, 
+   "packages/source/i/infi.pyvisdk/infi.pyvisdk-0.9.37.tar.gz": {
+    "hashes": {
+     "sha256": "103e68a9db74f055dfa03939ef044cf8f128dcbf978186258dda33e3a290a56f"
+    }, 
+    "length": 620766
+   }, 
+   "packages/source/i/ipnext.site.editablefooter/ipnext.site.editablefooter-0.1.4.tar.gz": {
+    "hashes": {
+     "sha256": "c10325cd2197588f72cf4533c7cf73bf3b2ae9fa9c73bc15f93616dad21b6248"
+    }, 
+    "length": 7190
+   }, 
+   "packages/source/i/isotoma.recipe.django/isotoma.recipe.django-1.1.26.tar.gz": {
+    "hashes": {
+     "sha256": "653abae93e9d6a3e5825fbfd66055e68d6150f7e751a9271661535b77c3506ff"
+    }, 
+    "length": 26282
+   }, 
+   "packages/source/i/iw.recipe.cmd/iw.recipe.cmd-0.3.tar.gz": {
+    "hashes": {
+     "sha256": "2664738a4f6c62124e1c412de0a4e6e6b3c493dfd82625394b1d063e9b221720"
+    }, 
+    "length": 6538
+   }, 
+   "packages/source/j/jabbercracky/jabbercracky-0.1.0.tar.gz": {
+    "hashes": {
+     "sha256": "cfd2c907dbfe468e26c3e9b254340678e73c179087c4ba1d8324e3c83e5620d4"
+    }, 
+    "length": 4541
+   }, 
+   "packages/source/j/jaraco.net/jaraco.net-2.0.2.zip": {
+    "hashes": {
+     "sha256": "0944a1ca70e38f2ebcb4dd2708a3dcc6b36786f51b7d8bfb8db1c655c23b6f08"
+    }, 
+    "length": 57955
+   }, 
+   "packages/source/j/jmbo-skeleton/jmbo-skeleton-0.3.2.tar.gz": {
+    "hashes": {
+     "sha256": "c03319d661b4242d8fb8de08882f76d84ca70dd1e366b9cda8fd51c3c9651654"
+    }, 
+    "length": 19110
+   }, 
+   "packages/source/j/js.jquery_joyride/js.jquery_joyride-1.0.3a1dev.tar.gz": {
+    "hashes": {
+     "sha256": "9f90c821ed3812f24ce7329b8af9efdea535428e8c6a453bd3b89bf2ff874418"
+    }, 
+    "length": 13521
+   }, 
+   "packages/source/l/lettuce/lettuce-0.1.17.tar.gz": {
+    "hashes": {
+     "sha256": "53d18f0c3de1319cd9df104f1a4e3b65a99d2523417d7f27f1c139d5add12c21"
+    }, 
+    "length": 63701
+   }, 
+   "packages/source/l/linkedin-api-json-client/linkedin-api-json-client-0.2.2.tar.gz": {
+    "hashes": {
+     "sha256": "aad8fb27151061dd8661104e2b3e7f74968485719e52a3a9c3c0e887085e41e7"
+    }, 
+    "length": 12150
+   }, 
+   "packages/source/l/lino/lino-1.4.10.zip": {
+    "hashes": {
+     "sha256": "ab24263b033532451c05753014e8f82599df8c81f94f3762da725cc7c53ffa5a"
+    }, 
+    "length": 2873267
+   }, 
+   "packages/source/l/logtools/logtools-0.4.tar.gz": {
+    "hashes": {
+     "sha256": "e99ed5c41866347b8a662ceea5c748f9932e711bcddee81f45a9dde1a45f009a"
+    }, 
+    "length": 14604
+   }, 
+   "packages/source/m/mailbox/mailbox-0.4.tar.gz": {
+    "hashes": {
+     "sha256": "f9bf9679932f7a245902d33924dff11485bcf49cac0526f1a5eb9550bc510d73"
+    }, 
+    "length": 4116
+   }, 
+   "packages/source/m/mdSTable/mdSTable-0.1.tar.gz": {
+    "hashes": {
+     "sha256": "7d3d3606cadd4235c3402898346aa70af9c55b59b3b2a66b86188dfd779583e8"
+    }, 
+    "length": 1698
+   }, 
+   "packages/source/m/medialog.tinymceplugins.helpmenu/medialog.tinymceplugins.helpmenu-0.2.8.zip": {
+    "hashes": {
+     "sha256": "d4afd40b9923fdaa24a39ad3056b7d4e4b2e3fc8cd8879a11fdc0113eab173b8"
+    }, 
+    "length": 6377871
+   }, 
+   "packages/source/m/megrok.layout/megrok.layout-1.0.1.tar.gz": {
+    "hashes": {
+     "sha256": "0db0391c0cd0447a4401161dfa90f2a4ef523879b1decf8855af0d1b5c7cc3b9"
+    }, 
+    "length": 14420
+   }, 
+   "packages/source/m/mozcommitbuilder/mozcommitbuilder-0.4.3.tar.gz": {
+    "hashes": {
+     "sha256": "35614e15469a0c50cb4470667e6abc85560a00e944ad547d4dede0b025fea42a"
+    }, 
+    "length": 9298
+   }, 
+   "packages/source/m/my_project/my_project-0.1dev.tar.gz": {
+    "hashes": {
+     "sha256": "8eea97195336fc0c2e9db2f8c2b8fc49d1d88e2b43232615497f7d201bcd0d07"
+    }, 
+    "length": 1137
+   }, 
+   "packages/source/m/mypy/mypy-0.240.tar.gz": {
+    "hashes": {
+     "sha256": "21324fa087b43027ef825de8a61aeb83581dfe776db24bbf47d8de4108cc5d46"
+    }, 
+    "length": 905706
+   }, 
+   "packages/source/n/neuronvisio/neuronvisio-0.4.4.tar.gz": {
+    "hashes": {
+     "sha256": "a45155c73e0a7e2fda6d407064a83f8bb99fd08a8c3f49ef85e4b75e36e84309"
+    }, 
+    "length": 1501404
+   }, 
+   "packages/source/o/obspy.taup/obspy.taup-0.0.2.zip": {
+    "hashes": {
+     "sha256": "a5b59addd4abded0108165bc8b5689e64ba9fbbdedc573f83d4ff7cc90e74614"
+    }, 
+    "length": 543556
+   }, 
+   "packages/source/p/pachy/pachy-0.1-6-g16ca.tar.gz": {
+    "hashes": {
+     "sha256": "f44aa315f0975860a64b1cc2a54ac033d61fe7eef00ac7f6f31c4f628b5c71c3"
+    }, 
+    "length": 4082
+   }, 
+   "packages/source/p/peewee/peewee-0.7.4.tar.gz": {
+    "hashes": {
+     "sha256": "5a91f8ff21c31e02036c1fe3799eea5eb00930be61c540501b60c1fd49b16015"
+    }, 
+    "length": 122637
+   }, 
+   "packages/source/p/piano/piano-0.3.zip": {
+    "hashes": {
+     "sha256": "ed504be9760ba2e0b687a249d772230b311c6bb8469a63b71b3d8660a87dc7e4"
+    }, 
+    "length": 405428
+   }, 
+   "packages/source/p/picomongo/picomongo-0.6.tar.gz": {
+    "hashes": {
+     "sha256": "39c039698a6b95cb7e27e4af506b413f64f546a1cb2945021d1dd5d81635a2c6"
+    }, 
+    "length": 4176
+   }, 
+   "packages/source/p/plone.app.search/plone.app.search-1.0.zip": {
+    "hashes": {
+     "sha256": "8a5a156f70dea33080cf41e5aa255003f7e3536819bbf214d93fc5c85ee26a4b"
+    }, 
+    "length": 40012
+   }, 
+   "packages/source/p/plone.app.z3cform/plone.app.z3cform-0.6.1.zip": {
+    "hashes": {
+     "sha256": "4d76fa98174c8cf6fb4e876e42997ff1590f131a5268d71b4a200dfd740185c2"
+    }, 
+    "length": 57227
+   }, 
+   "packages/source/p/plonetheme.basic/plonetheme.basic-0.6.zip": {
+    "hashes": {
+     "sha256": "82ac9247f984ab7a684be143cfb0e3e2bafce5b914c42e0b66306a581c01d829"
+    }, 
+    "length": 40621
+   }, 
+   "packages/source/p/profilestats/profilestats-1.0.zip": {
+    "hashes": {
+     "sha256": "57fbbad5428f93c86f0b6f085cce2c78b97b79d7d7079052afbbd3e92607c5ff"
+    }, 
+    "length": 3462
+   }, 
+   "packages/source/p/purlclient/purlclient-0.1.tar.gz": {
+    "hashes": {
+     "sha256": "46eafa14e1bbcbe6cb6bf0782ffcff9b4226267fb901acceb4013b6bad47c67c"
+    }, 
+    "length": 2657
+   }, 
+   "packages/source/p/pyFF/pyFF-0.9.tar.gz": {
+    "hashes": {
+     "sha256": "814d7276de03f43a18b63386d69a68ef5a231f51becaff500677da9af64264b5"
+    }, 
+    "length": 288928
+   }, 
+   "packages/source/p/pyar/pyar-0.1.6.tar.gz": {
+    "hashes": {
+     "sha256": "3d1deb70149eed49ff5691104fc341d80d3b59e201a34e8a6e4a9dc02556d34c"
+    }, 
+    "length": 9294
+   }, 
+   "packages/source/p/pycdio/pycdio-0.15.tar.gz": {
+    "hashes": {
+     "sha256": "0f7a0f8f0bda987b01dd3233d5ab936bcb478aafe88900f40e46d58514ecb5e3"
+    }, 
+    "length": 172452
+   }, 
+   "packages/source/p/pydap.responses.xls/pydap.responses.xls-0.1.2.tar.gz": {
+    "hashes": {
+     "sha256": "b4366d615231c15a46dd97535ccdfeea4ac2ffa81f4b3d5dad8853c0d0f512d4"
+    }, 
+    "length": 32075
+   }, 
+   "packages/source/p/pydas/pydas-0.2.13.tar.gz": {
+    "hashes": {
+     "sha256": "fec4bab0eebf53ae544dbab9194c6131de3e1fdbf33e2aba8f670ae6760af570"
+    }, 
+    "length": 12267
+   }, 
+   "packages/source/p/pydna/pydna-0.1.5.tar.gz": {
+    "hashes": {
+     "sha256": "86b884921a11810d36d1a7cb8e9d555f003907955bb17fb49837e21bcd59370c"
+    }, 
+    "length": 2007365
+   }, 
+   "packages/source/p/pydub/pydub-0.2.2.tar.gz": {
+    "hashes": {
+     "sha256": "916c9df0b37646c0bccd3538c7116914540d0fb295dc2e4b3608ca59a48744c7"
+    }, 
+    "length": 5995
+   }, 
+   "packages/source/p/pyf.components.consumers.ooowriter/pyf.components.consumers.ooowriter-0.3.2.tar.gz": {
+    "hashes": {
+     "sha256": "70ade1602a163a11114bef76994a28d0805663134f9fce899a497223dfa83b2a"
+    }, 
+    "length": 3756
+   }, 
+   "packages/source/p/pyfscache/pyfscache-0.9.9.tar.gz": {
+    "hashes": {
+     "sha256": "6460504a371652d38dd1b224accc690a4d59a104f772fe6f24c74678147a797e"
+    }, 
+    "length": 75964
+   }, 
+   "packages/source/p/pymstranslator/pymstranslator-0.0.3.tar.gz": {
+    "hashes": {
+     "sha256": "be58a417955b51cd9a29b81a8e648ec33f1a08ba287ad6154eb23a11b0bee84d"
+    }, 
+    "length": 6426
+   }, 
+   "packages/source/p/pyperry/pyperry-0.1.11.tar.gz": {
+    "hashes": {
+     "sha256": "19011340fd02737926dc95de02ecbb997841fcd8b5ac413344cae3714b78fe52"
+    }, 
+    "length": 31610
+   }, 
+   "packages/source/p/pypush/pypush-1.0.tar.gz": {
+    "hashes": {
+     "sha256": "ed232ef1a3d83cecdbad97b08b5c440aab9f35f27b31d572ae48736c3fe5e1bc"
+    }, 
+    "length": 3330
+   }, 
+   "packages/source/p/pyramid_rpc/pyramid_rpc-0.3.tar.gz": {
+    "hashes": {
+     "sha256": "8142b976e8a932c8c9e3260d7eb2cf3ccc1a88ca885e008d86ca5d6284ac6f8a"
+    }, 
+    "length": 21967
+   }, 
+   "packages/source/p/pyramid_soap/pyramid_soap-0.1.tar.gz": {
+    "hashes": {
+     "sha256": "b684bb86ca9a90e9289d408c5f97fbb350f34c771f76b91c4e95508579cdbdee"
+    }, 
+    "length": 7382
+   }, 
+   "packages/source/p/pyshop/pyshop-0.3.tar.gz": {
+    "hashes": {
+     "sha256": "f5f55d557b7e2d6d5cba0e09f3de90d10fad74a3d22e3184472c77467636e68c"
+    }, 
+    "length": 725293
+   }, 
+   "packages/source/p/pyspec/pyspec-0.2-r187.tar.gz": {
+    "hashes": {
+     "sha256": "be711387bf8f095e36f3eacfaf15f2aa77cb6d6dfe5c55b16a83dea8aaed4b0f"
+    }, 
+    "length": 3338980
+   }, 
+   "packages/source/p/python-documentcloud/python-documentcloud-0.12.tar.gz": {
+    "hashes": {
+     "sha256": "7d8adaeaefddc68e9dbb63b44502098fe803d468d21ecaa3ad332edff1e30ead"
+    }, 
+    "length": 10582
+   }, 
+   "packages/source/p/python-fs-stack/python-fs-stack-0.1.tar.gz": {
+    "hashes": {
+     "sha256": "3e0c1e2671553044715a00b62244ab2c123c3e848ff00e20fa22b3c6f82b7522"
+    }, 
+    "length": 7471
+   }, 
+   "packages/source/p/python-memcached/python-memcached-1.47.tar.gz": {
+    "hashes": {
+     "sha256": "59c5139d0a8d03e9bd796c984d0cd75b94ef955578372158152dacdfdfe32fc3"
+    }, 
+    "length": 37465
+   }, 
+   "packages/source/p/python-sdist-maemo/python-sdist-maemo-0.0.17.tar.gz": {
+    "hashes": {
+     "sha256": "68820d5e2d85d08c215da59eb101281ce1dce246aec41acdc37637589cfe90d7"
+    }, 
+    "length": 9481
+   }, 
+   "packages/source/p/pytimechart/pytimechart-0.9.2.tar.gz": {
+    "hashes": {
+     "sha256": "098ed585ad19ecc204bb57bb4dd4e846b916f278ad5497a4ff15587421911abd"
+    }, 
+    "length": 49961
+   }, 
+   "packages/source/p/pyvttbl/pyvttbl-0.3.6.7.zip": {
+    "hashes": {
+     "sha256": "50ca838bc7401a6ca92ee8872284c301a1b58367b0a8e8f7dfaad0af7a60dde4"
+    }, 
+    "length": 241781
+   }, 
+   "packages/source/p/pywizard/pywizard-0.3.9.zip": {
+    "hashes": {
+     "sha256": "5ea5b80fa8e6f92cf9492ed3998839df24ba8c55cc4f9caccd1ecde7f99a92eb"
+    }, 
+    "length": 144805
+   }, 
+   "packages/source/p/pywws/pywws-12.12_e27456b.zip": {
+    "hashes": {
+     "sha256": "aa7a84cc48a7221e694469f19a5735d1760d9b5fb45818195a50f15ffe1c0395"
+    }, 
+    "length": 1470208
+   }, 
+   "packages/source/q/quintagroup.dropdownmenu/quintagroup.dropdownmenu-1.2.5.zip": {
+    "hashes": {
+     "sha256": "6bb4e503831c8a27dcec610c40e12479ed1ae28f73cd083ab504d59f6ccce009"
+    }, 
+    "length": 38847
+   }, 
+   "packages/source/r/raptus.multilanguagefields/raptus.multilanguagefields-1.0b6.tar.gz": {
+    "hashes": {
+     "sha256": "2c364545aecc8ec0fb7933e49331282013690311433c1377238f9fc92316d3c8"
+    }, 
+    "length": 52774
+   }, 
+   "packages/source/r/raptus.multilanguageplone/raptus.multilanguageplone-1.0b5.tar.gz": {
+    "hashes": {
+     "sha256": "0411a9d2c612224901871685d820ff7095a1b8aee33f0c220e1a1fd961f372af"
+    }, 
+    "length": 23465
+   }, 
+   "packages/source/r/redturtle.video/redturtle.video-0.2.2.tar.gz": {
+    "hashes": {
+     "sha256": "1e0482dcdee2c40b594801786f248a4b12b7d3dfaf2c2baa17db337ae2742aab"
+    }, 
+    "length": 24992
+   }, 
+   "packages/source/r/repoze.bfg/repoze.bfg-1.3a15.tar.gz": {
+    "hashes": {
+     "sha256": "138a30252a90b5dd453ec260a38e0aec978d3fbaa5691b669b57d158c9cfc65b"
+    }, 
+    "length": 1319781
+   }, 
+   "packages/source/r/repoze.dvselect/repoze.dvselect-0.1.1.tar.gz": {
+    "hashes": {
+     "sha256": "055b997a0cda698096e98e467a5a0b72d73b8b6fd6e80859c4016a076cb89369"
+    }, 
+    "length": 169012
+   }, 
+   "packages/source/r/rivr/rivr-0.3.2.tar.gz": {
+    "hashes": {
+     "sha256": "06b0f1be060ca0bdac9af462032a7fd96855f0dcb12478f939f27c407a6a9a9b"
+    }, 
+    "length": 17118
+   }, 
+   "packages/source/r/rsb-python/rsb-python-0.7.0.109.tar.gz": {
+    "hashes": {
+     "sha256": "0c27298391edae212f7bcfe4ddcaf01d88cc76b419d6a45f9188749d20911c60"
+    }, 
+    "length": 45539
+   }, 
+   "packages/source/r/rsb-python/rsb-python-0.7.0.86.tar.gz": {
+    "hashes": {
+     "sha256": "2aeaa6f59cf90589ad9e2ad16748f45bd2b230dd71f00b1ac1683cb731fbe619"
+    }, 
+    "length": 45389
+   }, 
+   "packages/source/s/sIBL_GUI/sIBL_GUI-4.0.3.tar.gz": {
+    "hashes": {
+     "sha256": "33ad519afcb9b084c93dc2728f2b5b29a908b5184870973ba44d5f42852423c0"
+    }, 
+    "length": 24358062
+   }, 
+   "packages/source/s/sentry/sentry-4.8.1.tar.gz": {
+    "hashes": {
+     "sha256": "3b720443c9897c90ab165681e22aeee895317c612684e3bafe8162cf7fbd7be4"
+    }, 
+    "length": 594445
+   }, 
+   "packages/source/s/simplecoremidi/simplecoremidi-0.2.1.tar.gz": {
+    "hashes": {
+     "sha256": "a72b3b4b406ae9cf826df27dc7eaba5af16a7430b9cdfb021a2dee50e6e7c601"
+    }, 
+    "length": 5604
+   }, 
+   "packages/source/s/slapos.core/slapos.core-0.35.1.tar.gz": {
+    "hashes": {
+     "sha256": "e23b565fcb3a768a5373a552860e50308024408a29ff6ec6e874ec437d6b853b"
+    }, 
+    "length": 113771
+   }, 
+   "packages/source/s/sqlbean/sqlbean-0.600.tar.gz": {
+    "hashes": {
+     "sha256": "0f98e93efe9b4e4245cc8e80b74fc4cb081ee4388e3602fd7850976f7213460d"
+    }, 
+    "length": 17379
+   }, 
+   "packages/source/s/ssh/ssh-1.7.12.tar.gz": {
+    "hashes": {
+     "sha256": "9bdb4113af0bca286091c1f4c1420ded3c7c8d28c0efcf14927e024a5a3b0883"
+    }, 
+    "length": 790597
+   }, 
+   "packages/source/s/stripe/stripe-1.5.8.tar.gz": {
+    "hashes": {
+     "sha256": "fbc14ef3babfada7193c54cea523b5d81eb5f7e4abcf2d5ef503c242ebe40ace"
+    }, 
+    "length": 6735
+   }, 
+   "packages/source/s/switchboard/switchboard-1.0.7.tar.gz": {
+    "hashes": {
+     "sha256": "304b1c5676092ddc5222485e5694b04ea74bc87d4214aa8e612d4e9e26981f13"
+    }, 
+    "length": 34723
+   }, 
+   "packages/source/t/tendenci/tendenci-5.1.72.tar.gz": {
+    "hashes": {
+     "sha256": "d9f2b06aa1e024e6f50fc9971bb19e0be72e6f9f5e724627bd136db77b9aee63"
+    }, 
+    "length": 10568663
+   }, 
+   "packages/source/t/thefuckingweather/thefuckingweather-2.0.tar.gz": {
+    "hashes": {
+     "sha256": "6b732d2e3352abd70221937afa7409893e19a2f59853e9907b060515e433600c"
+    }, 
+    "length": 3938
+   }, 
+   "packages/source/t/tiddlywebplugins.tiddlyspace/tiddlywebplugins.tiddlyspace-1.1.3.tar.gz": {
+    "hashes": {
+     "sha256": "52fa9d15c768f9a15eca89dbb7be78400dbce0e0d09de0c597a018828c005772"
+    }, 
+    "length": 840998
+   }, 
+   "packages/source/t/tipimaid/tipimaid-0.3.tar.gz": {
+    "hashes": {
+     "sha256": "659a414d37be7c153f73ed83b9b23579f6a27068cba9e044ea4cae1e398bcb0d"
+    }, 
+    "length": 19008
+   }, 
+   "packages/source/t/tradingmachine/tradingmachine-0.1.2.tar.gz": {
+    "hashes": {
+     "sha256": "44d36a3d3607c2c26a12cded265409fe0fdca6714a2d4e0d2fe7539652ec78f6"
+    }, 
+    "length": 22489
+   }, 
+   "packages/source/t/transmission-fluid/transmission-fluid-0.2.tar.gz": {
+    "hashes": {
+     "sha256": "e5a44759455a94ed88dc31837d7107fce6dfc4959b991e6c9833f5e1a616cb79"
+    }, 
+    "length": 2218
+   }, 
+   "packages/source/t/transmogrify.siteanalyser/transmogrify.siteanalyser-1.0b8.zip": {
+    "hashes": {
+     "sha256": "a820b44fc5a0ae49707fdf47031cf2616760c773050c418bc3bbf18534ac1b96"
+    }, 
+    "length": 41428
+   }, 
+   "packages/source/t/trytond_health_history/trytond_health_history-1.6.3.tar.gz": {
+    "hashes": {
+     "sha256": "e00298972fee9fdcd98f522603e1cc657a568e5d78763cedf3f0f1ff6833d2cb"
+    }, 
+    "length": 19005
+   }, 
+   "packages/source/v/validictory/validictory-0.7.1.tar.gz": {
+    "hashes": {
+     "sha256": "fec2fc86d63f40825a26f21c8b7cfa790f22f4be9be05c880876c526e9dfcbfa"
+    }, 
+    "length": 12251
+   }, 
+   "packages/source/v/vs.org/vs.org-1.0.9.1.zip": {
+    "hashes": {
+     "sha256": "666ae476a5ef48ede9727556c990a603e6794f4fe064e211b4c11c642393c12f"
+    }, 
+    "length": 114657
+   }, 
+   "packages/source/x/xm.theme/xm.theme-1.0.2.dev.tar.gz": {
+    "hashes": {
+     "sha256": "4ac2e88456d6aa9949fbb23dc6a942ecad9841f7e33dfde0942ad9d4bb813f49"
+    }, 
+    "length": 387880
+   }, 
+   "packages/source/x/xsanio-server/xsanio-server-0.7.8.tar.gz": {
+    "hashes": {
+     "sha256": "6ffcfd18c2956763f30f3b711dc96a64fc6e113b9f0b94f9d98bdea25dcee7e9"
+    }, 
+    "length": 14971
+   }, 
+   "simple/ARS/index.html": {
+    "hashes": {
+     "sha256": "ee5df27aa1140e9c73a88ce1c6a9a5d190e2eb411f7bbadcb18a545d8cc93053"
+    }, 
+    "length": 3915
+   }, 
+   "simple/BOTEC/index.html": {
+    "hashes": {
+     "sha256": "796716213e7cc41232f498167eb3b9e886085877c1a8c8913cca30009a3aefc9"
+    }, 
+    "length": 130
+   }, 
+   "simple/Benchmarker/index.html": {
+    "hashes": {
+     "sha256": "d87f3ef9accc17eb2dba53d9a6e540c71eaecd5dccdbf1283b81df4b1b9ebf9a"
+    }, 
+    "length": 4453
+   }, 
+   "simple/LiteroticAPI/index.html": {
+    "hashes": {
+     "sha256": "37917bdf2f30ef2a3e4e87fdf3660f5c734155e3c6e558c5a28b2ef511fc2aa9"
+    }, 
+    "length": 298
+   }, 
+   "simple/PBKDF/index.html": {
+    "hashes": {
+     "sha256": "a68d66f0f3870e251502ebd1089e91ebd7bdb7a8b1a1f70f3a8e32b438ebce4e"
+    }, 
+    "length": 265
+   }, 
+   "simple/PalmDB/index.html": {
+    "hashes": {
+     "sha256": "86900aa5f7d820789f2111152b743c8050ae1ac8a308d86de4101a0ea39abc91"
+    }, 
+    "length": 1761
+   }, 
+   "simple/QUI-for-MPlayer/index.html": {
+    "hashes": {
+     "sha256": "6793189937aa71c27ec108e25caa5ea61badbccff3aa1d7b924ec80a72bd670c"
+    }, 
+    "length": 452
+   }, 
+   "simple/SPARQLWrapper/index.html": {
+    "hashes": {
+     "sha256": "3ff7b0fd0702d09b9a531aa1a4d9c8b7f7b26f29b023b8c97754a777cede5c11"
+    }, 
+    "length": 5667
+   }, 
+   "simple/baas/index.html": {
+    "hashes": {
+     "sha256": "8c6e57ad14ffa1e9c21aa1ae0a1e028bfe7f83f35301db0964f57818bc15d69d"
+    }, 
+    "length": 996
+   }, 
+   "simple/calendrical/index.html": {
+    "hashes": {
+     "sha256": "e4e3770328d627395d6f4cab2a34240a495725b2599669a9a412f4dc587b9362"
+    }, 
+    "length": 222
+   }, 
+   "simple/cbmock/index.html": {
+    "hashes": {
+     "sha256": "9e5b1dbd2cd5470b12bf2ef8cbc5391e14f6091c36c7e736a4291427c799953e"
+    }, 
+    "length": 1114
+   }, 
+   "simple/chouwa/index.html": {
+    "hashes": {
+     "sha256": "79bc205e252899577eb13611fce7f74567b1286d36102b99d9ee486e550f7ebe"
+    }, 
+    "length": 696
+   }, 
+   "simple/codinghyde.synapse/index.html": {
+    "hashes": {
+     "sha256": "3481b21c47aa0d8e256868cd864731defc9841cee62af8f5760dbd914e4e185e"
+    }, 
+    "length": 252
+   }, 
+   "simple/csvplait/index.html": {
+    "hashes": {
+     "sha256": "6fa996f4a1270f0a86366e5ff74167bce79d3ebc71295962fbd4e9b31da9e087"
+    }, 
+    "length": 280
+   }, 
+   "simple/django-group-access/index.html": {
+    "hashes": {
+     "sha256": "5511142ed75eb710add915dd393cedd13a7eb2cb369c07511ae291dd9856e6c2"
+    }, 
+    "length": 3428
+   }, 
+   "simple/django-last-used/index.html": {
+    "hashes": {
+     "sha256": "4df145e13960038b86786c1e4e4c139e1763e548841b6aed6877a7da1a400cb4"
+    }, 
+    "length": 320
+   }, 
+   "simple/django-photobooth/index.html": {
+    "hashes": {
+     "sha256": "47d5437773436ee31563fe709612df75bd5ce4e2d74fc170a4e49007da74f7aa"
+    }, 
+    "length": 260
+   }, 
+   "simple/django-screamshot/index.html": {
+    "hashes": {
+     "sha256": "0ec4ee1467937db0e7c713b3950915333c27de776604c831787c4293a98c6bc2"
+    }, 
+    "length": 663
+   }, 
+   "simple/drill/index.html": {
+    "hashes": {
+     "sha256": "bc7efb3697197bfb21bf1dbf2b2a873e75b0c224c1f993c44a2c558b3b0ce79c"
+    }, 
+    "length": 408
+   }, 
+   "simple/egads/index.html": {
+    "hashes": {
+     "sha256": "4d51cf5b5f302c7052ca4713109c43a71c3581d0d37c3ebbb8e464298f00fddf"
+    }, 
+    "length": 3330
+   }, 
+   "simple/falcon/index.html": {
+    "hashes": {
+     "sha256": "816e7cf65a6467dd5fac43b975e6abd24e1929dd3b55125d9339e471d9200c2e"
+    }, 
+    "length": 3796
+   }, 
+   "simple/getpaid.googlecheckout/index.html": {
+    "hashes": {
+     "sha256": "d42e684d743b7faa85974beb49f141fc4faf52cda347bfa7a1d66019179ab704"
+    }, 
+    "length": 1182
+   }, 
+   "simple/grokcore.security/index.html": {
+    "hashes": {
+     "sha256": "5b937883149c5ce1c0772116253f192de562db31da61ec3d1f18844c87335807"
+    }, 
+    "length": 1701
+   }, 
+   "simple/hgversion/index.html": {
+    "hashes": {
+     "sha256": "a63a7971d34c86b04428d2bda0ccbc8add266c7835d4e5f0b99a6cdaaad7dbe5"
+    }, 
+    "length": 2185
+   }, 
+   "simple/jquery.layer/index.html": {
+    "hashes": {
+     "sha256": "71bfbf4627c9e5682ee021d7a418ba1721f5e97f2c877ff913d04407bd2f29f6"
+    }, 
+    "length": 635
+   }, 
+   "simple/juju-deployer/index.html": {
+    "hashes": {
+     "sha256": "b3537268101d4988db94207056a5a8dde78fbce220f519d641a1e94d27343222"
+    }, 
+    "length": 1939
+   }, 
+   "simple/loginform/index.html": {
+    "hashes": {
+     "sha256": "5528eb19731eb582962a4ec19bfbb556c4c1a60566b0891ba00d3563c60dce9e"
+    }, 
+    "length": 285
+   }, 
+   "simple/nester5/index.html": {
+    "hashes": {
+     "sha256": "e52ad966de27baa50e3ff35880916356c7e29cd3f2a9d93bf5cca2934a6701f1"
+    }, 
+    "length": 569
+   }, 
+   "simple/pgbouncer/index.html": {
+    "hashes": {
+     "sha256": "c1015260fc2ff9bcef7e47df41a5e5ea4e0d2447944d169369c20561d48539dc"
+    }, 
+    "length": 1195
+   }, 
+   "simple/por.karma/index.html": {
+    "hashes": {
+     "sha256": "c50c678968240432509292726371f68aac173cf9e26f5e229b5b491d73749acf"
+    }, 
+    "length": 279
+   }, 
+   "simple/py4d/index.html": {
+    "hashes": {
+     "sha256": "1a972c3c145aaba195070fd4f5c6d7124702bfc0bbeae65c9f148f2653090750"
+    }, 
+    "length": 262
+   }, 
+   "simple/pyjon.versionning/index.html": {
+    "hashes": {
+     "sha256": "e1e6e16f5ef364dc690a636ce62fae8432b9604a93817e7f37d4f5410c54705a"
+    }, 
+    "length": 1907
+   }, 
+   "simple/pypiezo/index.html": {
+    "hashes": {
+     "sha256": "50558718c84461976533d7c8f608ce303f7ded077598227ad5ea7b6ae9e80c8c"
+    }, 
+    "length": 7241
+   }, 
+   "simple/python-mochi/index.html": {
+    "hashes": {
+     "sha256": "52aeca424fa115c5cacc73e1ab7f66788c5c780ef2e035b63803950211035ff5"
+    }, 
+    "length": 585
+   }, 
+   "simple/svgplotlib/index.html": {
+    "hashes": {
+     "sha256": "87acea1ed9765bade1f717111e96805c059a8babef2f5f07e4c77b312a6a8dea"
+    }, 
+    "length": 849
+   }, 
+   "simple/twitterbeat/index.html": {
+    "hashes": {
+     "sha256": "26c841fe654b937e90416b90a27ed39e8ba0c17af8b22f9e39b5fafa7655c1a8"
+    }, 
+    "length": 452
+   }, 
+   "simple/voitto/index.html": {
+    "hashes": {
+     "sha256": "a78e0554a451a0c83dc699246bacc3d90cc992d69a1a4a3a302d1120ca1c23da"
+    }, 
+    "length": 446
+   }, 
+   "simple/vs.genericsetup.ldap/index.html": {
+    "hashes": {
+     "sha256": "fd192e63be91a53e7966d14d4ad3efd1e1449dbf280e65eba7afba9b9f3206dd"
+    }, 
+    "length": 708
+   }, 
+   "simple/wimms/index.html": {
+    "hashes": {
+     "sha256": "a80055d2aa868258c80e13bd31043b60f3f571abf58dd4c1e6fcf319bc59e042"
+    }, 
+    "length": 539
+   }, 
+   "simple/yo-fabric/index.html": {
+    "hashes": {
+     "sha256": "9e76df087fd8fbb2d3a0d1567a5982939292bff5b9ad346b84297327656f54de"
+    }, 
+    "length": 440
+   }, 
+   "simple/zope.catalog/index.html": {
+    "hashes": {
+     "sha256": "c37ca5e13f076ca0c32c0fff84fde9d0d568a75d7ab66650bd374f836cfa1d4d"
+    }, 
+    "length": 776
+   }
+  }, 
+  "version": 1
+ }
+}
